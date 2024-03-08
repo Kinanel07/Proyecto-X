@@ -1,13 +1,14 @@
-# Integrantes
+# Members
 - Joel Montenegro
 - Luis Atencio
 - Ivan Abril
 - Kinan El Halabi
 
-# Base de datos
+# Database
 [Base_Datos.xlsx](https://github.com/Kinanel07/Proyecto-X/files/14541042/Base_Datos.xlsx)
 
-# Informe 
+# Report
 [Informe_Proyecto_X.pdf](https://github.com/Kinanel07/Proyecto-X/files/14541113/Informe_Proyecto_X.pdf)
+
 
 
