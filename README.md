@@ -1,1 +1,8 @@
-poner aqui el informe y demas
+# Integrantes
+- Joel Montenegro
+- Luis Atencio
+- Ivan Abril
+- Kinan El Halabi
+
+# Base de datos
+
